@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Apr 13 16:53:24 EDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.1.3 - (1853019): instance a816c00e-016a-1879-ec46-000007513200 
+on database directory D:\Software Engineering\Java Programming\Project\TRINHQUANGTRUNG_301025717_COMP228_002_Lab5\ticketbooking with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@48140564 
+Loaded from file:/C:/Program%20Files/Apache/db-derby-10.15.1.3-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=10.0.2+13
+user.dir=D:\Software Engineering\Java Programming\Project\TRINHQUANGTRUNG_301025717_COMP228_002_Lab5
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
